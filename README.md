@@ -1,4 +1,4 @@
-# Dcollege-demo
-This is my first Git Repository.
-<br>
-My Name Is Dhruvil.
+# Python Learning Progress
+
+###march 22,2025
+-how to create python program
